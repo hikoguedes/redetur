@@ -1,0 +1,7 @@
+seaborn
+openpyxl
+pygsheets
+plotly.express
+bar_chart_race
+setuptools
+scikit-learn
