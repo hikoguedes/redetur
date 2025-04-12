@@ -5,3 +5,12 @@ plotly.express
 bar_chart_race
 setuptools
 scikit-learn
+streamlit
+pandas
+plotly.express
+plotly.graph_objects
+pyecharts.charts
+streamlit_echarts
+pyecharts
+pyecharts.charts
+streamlit_echarts
